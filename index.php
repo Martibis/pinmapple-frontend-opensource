@@ -54,7 +54,7 @@
     <div class="fineapple">
         <a href="https://peakd.com/@pinmapple" target="_blank"> <img src="IMG/nicepineapple.png" /></a>
     </div>
-    <!-- Buymeberries (change to your username / remove) -->
+    <!-- TODO: Buymeberries (change to your username / remove) -->
     <div class="buymeberries">
         <a href='https://buymeberri.es/@pinmapple' target='_blank'><img
                 src='https://buymeberries.com/assets/bmb-1-l.png' /></a>

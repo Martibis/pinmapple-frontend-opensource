@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+ 
+RewriteEngine on
+RewriteRule ^@([^/]+)$ ?author=$1 [L,QSA]
